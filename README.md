@@ -1,6 +1,6 @@
 ## AWS Lambda on Java - for Alexa Skill. Basic example.
 
-https://youtu.be/Iz4hBfXfwGQ
+Video tutorial: https://youtu.be/Iz4hBfXfwGQ
 
 AWS Lambda on Java for Alexa Skills guideline:
 https://github.com/alexa/alexa-skills-kit-sdk-for-java/wiki/Setting-Up-The-ASK-SDK
