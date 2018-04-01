@@ -48,3 +48,6 @@ java.lang.NoClassDefFoundError: com/amazon/ask/builder/StandardSkillBuilder
 	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
 ...
 ```
+
+IntelliJ IDEA plugin - Connector for AWS Lambda:
+https://github.com/satr/intellij-idea-plugin-connector-for-aws-lambda
