@@ -3,7 +3,7 @@
 Video tutorial: https://youtu.be/Iz4hBfXfwGQ
 
 AWS Lambda on Java for Alexa Skills guideline:
-https://github.com/alexa/alexa-skills-kit-sdk-for-java/wiki/Setting-Up-The-ASK-SDK
+https://alexa-skills-kit-sdk-for-java.readthedocs.io/en/latest/
 
 Dependencies:
 ```
