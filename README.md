@@ -2,9 +2,6 @@
 
 Video tutorial: https://youtu.be/Iz4hBfXfwGQ
 
-AWS Lambda on Java for Alexa Skills guideline:
-https://alexa-skills-kit-sdk-for-java.readthedocs.io/en/latest/
-
 Dependencies:
 ```
 com.amazonaws:aws-java-sdk-lambda
@@ -23,14 +20,13 @@ com.amazon.alexa:ask-sdk adds also:
   com.amazon.alexa:ask-sdk-apache-client
   etc.
 ```
-AWS console: 
-https://console.aws.amazon.com 
+[AWS console](https://console.aws.amazon.com)
 
-Developer console: 
-https://developer.amazon.com 
+[Developer console](https://developer.amazon.com)
 
-Request and Response JSON Reference reference:
-https://developer.amazon.com/docs/custom-skills/request-and-response-json-reference.html
+[AWS Lambda on Java for Alexa Skills guideline](https://alexa-skills-kit-sdk-for-java.readthedocs.io/en/latest/)
+
+[Request and Response JSON Reference](https://developer.amazon.com/docs/custom-skills/request-and-response-json-reference.html)
 
 Testing of Alexa Skill
 https://developer.amazon.com/docs/devconsole/test-your-skill.html
